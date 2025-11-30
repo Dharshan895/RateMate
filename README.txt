@@ -1,4 +1,3 @@
-# RateMate
 Restaurant Rating Predictor
 
 Predict the aggregate ratings of restaurants based on location, cuisines, and other key features. This model uses machine learning techniques to handle high-cardinality and multi-label categorical data, producing accurate predictions of restaurant ratings.
